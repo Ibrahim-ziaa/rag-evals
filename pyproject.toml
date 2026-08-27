@@ -1,0 +1,19 @@
+[project]
+name = "rag-evals"
+version = "0.1.0"
+description = "RAG over local documents with a gold question set and regression-checked retrieval, groundedness, and relevance metrics."
+requires-python = ">=3.11"
+dependencies = ["numpy>=1.26", "anthropic>=0.40"]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["rag_evals"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

@@ -1,0 +1,12 @@
+{"id": "q1", "question": "How long do I have to return an unused item for a full refund?", "relevant_docs": ["returns-policy"], "must_mention": ["30 days"]}
+{"id": "q2", "question": "Can I return a custom-cut hose?", "relevant_docs": ["returns-policy"], "must_mention": ["not returnable"]}
+{"id": "q3", "question": "What is the free shipping threshold?", "relevant_docs": ["shipping"], "must_mention": ["500"]}
+{"id": "q4", "question": "How long does express shipping take and what does it cost?", "relevant_docs": ["shipping"], "must_mention": ["1 to 2", "45"]}
+{"id": "q5", "question": "How long is the warranty on a pump?", "relevant_docs": ["warranty"], "must_mention": ["24"]}
+{"id": "q6", "question": "Is damage from running a pump dry covered?", "relevant_docs": ["warranty"], "must_mention": ["not cover"]}
+{"id": "q7", "question": "What discount do I get for ordering 25 valves?", "relevant_docs": ["pricing-terms"], "must_mention": ["7 percent"]}
+{"id": "q8", "question": "How long is a quote valid?", "relevant_docs": ["pricing-terms"], "must_mention": ["14 days"]}
+{"id": "q9", "question": "Do large pumps ship by air?", "relevant_docs": ["shipping"], "must_mention": ["freight"]}
+{"id": "q10", "question": "How do I claim a warranty?", "relevant_docs": ["warranty"], "must_mention": ["serial number"]}
+{"id": "q11", "question": "What are the payment terms for a new customer?", "relevant_docs": ["pricing-terms"], "must_mention": ["pay on order"]}
+{"id": "q12", "question": "What is the capital of France?", "relevant_docs": [], "must_mention": [], "expect_abstain": true}

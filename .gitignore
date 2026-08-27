@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+decisions.jsonl
+.env
+index.json
+evals/last_run.json

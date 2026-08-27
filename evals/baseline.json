@@ -1,0 +1,8 @@
+{
+  "retrieval_precision": 0.9583,
+  "retrieval_recall": 1.0,
+  "mrr": 1.0,
+  "groundedness": 1.0,
+  "relevance": 1.0,
+  "abstain_correct": 1.0
+}

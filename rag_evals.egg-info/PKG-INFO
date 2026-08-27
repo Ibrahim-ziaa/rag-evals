@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: rag-evals
+Version: 0.1.0
+Summary: RAG over local documents with a gold question set and regression-checked retrieval, groundedness, and relevance metrics.
+Requires-Python: >=3.11
+License-File: LICENSE
+Requires-Dist: numpy>=1.26
+Requires-Dist: anthropic>=0.40
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Dynamic: license-file
