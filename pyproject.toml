@@ -3,10 +3,10 @@ name = "rag-evals"
 version = "0.1.0"
 description = "RAG over local documents with a gold question set and regression-checked retrieval, groundedness, and relevance metrics."
 requires-python = ">=3.11"
-dependencies = ["numpy>=1.26", "anthropic>=0.40"]
+dependencies = ["numpy>=1.26", "anthropic>=0.40", "fastapi>=0.115", "uvicorn>=0.30"]
 
 [project.optional-dependencies]
-dev = ["pytest"]
+dev = ["pytest", "httpx"]
 
 [build-system]
 requires = ["setuptools>=68"]

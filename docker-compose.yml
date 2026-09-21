@@ -1,0 +1,10 @@
+services:
+  sourcebook:
+    build: .
+    ports:
+      - "8102:8102"
+    environment:
+      # Offline by default. Set RAG_EVALS_LIVE=1 and ANTHROPIC_API_KEY to use Claude as the answer engine.
+      RAG_EVALS_LIVE: ${RAG_EVALS_LIVE:-0}
+      ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY:-}
+    restart: unless-stopped

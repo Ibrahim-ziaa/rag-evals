@@ -1,0 +1,50 @@
+{"id": "q01", "kind": "direct", "question": "How long is the warranty on a Halden dishwasher?", "relevant_docs": ["warranty-policy"], "must_mention": ["24 months"]}
+{"id": "q02", "kind": "direct", "question": "How long is the refrigerator compressor covered?", "relevant_docs": ["warranty-policy"], "must_mention": ["10 years"]}
+{"id": "q03", "kind": "direct", "question": "Is cosmetic damage covered by the warranty?", "relevant_docs": ["warranty-policy"], "must_mention": ["14 days"]}
+{"id": "q04", "kind": "direct", "question": "How much does Halden Care cost for a washing machine?", "relevant_docs": ["extended-protection-plan"], "must_mention": ["149 USD"]}
+{"id": "q05", "kind": "direct", "question": "How long after delivery can I still buy Halden Care?", "relevant_docs": ["extended-protection-plan"], "must_mention": ["60 days"]}
+{"id": "q06", "kind": "direct", "question": "How many days do I have to return an appliance?", "relevant_docs": ["returns-and-refunds"], "must_mention": ["30 days"]}
+{"id": "q07", "kind": "direct", "question": "Is there a restocking fee for an installed appliance?", "relevant_docs": ["returns-and-refunds"], "must_mention": ["15 percent"]}
+{"id": "q08", "kind": "direct", "question": "How much does room of choice delivery cost?", "relevant_docs": ["shipping-and-delivery"], "must_mention": ["49 USD"]}
+{"id": "q09", "kind": "direct", "question": "Do you deliver to Hawaii?", "relevant_docs": ["shipping-and-delivery"], "must_mention": ["do not currently deliver"]}
+{"id": "q10", "kind": "direct", "question": "Can I cancel my order after it has been dispatched?", "relevant_docs": ["order-changes-and-cancellations"], "must_mention": ["no longer be cancelled"]}
+{"id": "q11", "kind": "direct", "question": "How long do card refunds take?", "relevant_docs": ["billing-and-payments"], "must_mention": ["5 to 7 business days"]}
+{"id": "q12", "kind": "direct", "question": "Which payment methods do you accept?", "relevant_docs": ["billing-and-payments"], "must_mention": ["PayPal"]}
+{"id": "q13", "kind": "direct", "question": "What is the interest rate on the 24 month installment plan?", "relevant_docs": ["financing-and-installments"], "must_mention": ["9.9 percent"]}
+{"id": "q14", "kind": "direct", "question": "What is the late fee for a missed installment?", "relevant_docs": ["financing-and-installments"], "must_mention": ["15 USD"]}
+{"id": "q15", "kind": "direct", "question": "Where is the serial number on a refrigerator?", "relevant_docs": ["product-registration"], "must_mention": ["crisper drawer"]}
+{"id": "q16", "kind": "direct", "question": "How high must the dishwasher drain hose loop be?", "relevant_docs": ["installation-dishwasher"], "must_mention": ["400 mm"]}
+{"id": "q17", "kind": "direct", "question": "How long should a new refrigerator stand before I switch it on?", "relevant_docs": ["installation-refrigerator"], "must_mention": ["4 hours"]}
+{"id": "q18", "kind": "direct", "question": "What does error code E24 mean on the dishwasher?", "relevant_docs": ["error-codes"], "must_mention": ["cannot drain"]}
+{"id": "q19", "kind": "direct", "question": "What does F21 mean on my washing machine?", "relevant_docs": ["error-codes"], "must_mention": ["too much foam"]}
+{"id": "q20", "kind": "direct", "question": "How often should I clean the dishwasher filter?", "relevant_docs": ["maintenance-and-cleaning"], "must_mention": ["every two weeks"]}
+{"id": "q21", "kind": "direct", "question": "Which dishwashers are affected by the recall?", "relevant_docs": ["safety-and-recalls"], "must_mention": ["DW-400"]}
+{"id": "q22", "kind": "direct", "question": "How much is a replacement refrigerator water filter?", "relevant_docs": ["replacement-parts-and-filters"], "must_mention": ["39 USD"]}
+{"id": "q23", "kind": "direct", "question": "What is the call out fee for a repair outside warranty?", "relevant_docs": ["service-visits-and-repairs"], "must_mention": ["95 USD"]}
+{"id": "q24", "kind": "direct", "question": "What are the phone support hours on Saturday?", "relevant_docs": ["contact-and-support-hours"], "must_mention": ["9 am to 5 pm"]}
+{"id": "q25", "kind": "direct", "question": "Does the app work with Apple HomeKit?", "relevant_docs": ["smart-home-app"], "must_mention": ["not supported"]}
+{"id": "q26", "kind": "direct", "question": "How much does haul away of my old appliance cost?", "relevant_docs": ["haul-away-and-recycling"], "must_mention": ["30 USD"]}
+{"id": "q27", "kind": "direct", "question": "How much water does the Eco 50 programme use?", "relevant_docs": ["energy-and-water-use"], "must_mention": ["9.5 litres"]}
+{"id": "q28", "kind": "direct", "question": "What discount do I get for buying three appliances together?", "relevant_docs": ["price-match-and-promotions"], "must_mention": ["10 percent"]}
+{"id": "q29", "kind": "paraphrased", "question": "My plates and cups come out soaking at the end of a wash, what should I do?", "relevant_docs": ["troubleshooting-dishwasher"], "must_mention": ["rinse aid"]}
+{"id": "q30", "kind": "paraphrased", "question": "I bought my washer second hand, is it still under guarantee?", "relevant_docs": ["warranty-policy"], "must_mention": ["new owner"]}
+{"id": "q31", "kind": "paraphrased", "question": "The washer walks across the floor when it spins.", "relevant_docs": ["troubleshooting-washing-machine"], "must_mention": ["transit bolts"]}
+{"id": "q32", "kind": "paraphrased", "question": "Can I keep my fridge in the garage over winter?", "relevant_docs": ["installation-refrigerator"], "must_mention": ["unheated garage"]}
+{"id": "q33", "kind": "paraphrased", "question": "There is ice building up on the inside walls of my freezer.", "relevant_docs": ["troubleshooting-refrigerator"], "must_mention": ["gasket"]}
+{"id": "q34", "kind": "paraphrased", "question": "The price went down a week after I ordered, can I get money back?", "relevant_docs": ["order-changes-and-cancellations"], "must_mention": ["refund the difference"]}
+{"id": "q35", "kind": "paraphrased", "question": "My router is 5 GHz only, will the dishwasher connect to it?", "relevant_docs": ["smart-home-app"], "must_mention": ["2.4 GHz"]}
+{"id": "q36", "kind": "paraphrased", "question": "Is it OK to plug the dishwasher into a power strip?", "relevant_docs": ["installation-dishwasher", "safety-and-recalls"], "must_mention": ["extension lead"]}
+{"id": "q37", "kind": "paraphrased", "question": "I work for the fire department, do I get a deal?", "relevant_docs": ["price-match-and-promotions"], "must_mention": ["first responders"]}
+{"id": "q38", "kind": "paraphrased", "question": "Can I put the washing machine on top of the dryer to save space?", "relevant_docs": ["installation-washing-machine"], "must_mention": ["Never stack"]}
+{"id": "q39", "kind": "two_docs", "question": "If I return a dishwasher I have already used, what fee applies and how long until the money is back on my card?", "relevant_docs": ["returns-and-refunds", "billing-and-payments"], "must_mention": ["15 percent", "5 to 7 business days"]}
+{"id": "q40", "kind": "two_docs", "question": "Do I need to register my appliance to make a warranty claim, and what do I gain by registering?", "relevant_docs": ["warranty-policy", "product-registration"], "must_mention": ["do not need to have registered", "3 months"]}
+{"id": "q41", "kind": "two_docs", "question": "My ice maker stopped making ice, could it be the water filter, and what does a new filter cost?", "relevant_docs": ["troubleshooting-refrigerator", "replacement-parts-and-filters"], "must_mention": ["6 months", "39 USD"]}
+{"id": "q42", "kind": "two_docs", "question": "My washing machine shows F05, what should I do and how often should that filter be cleaned?", "relevant_docs": ["error-codes", "maintenance-and-cleaning"], "must_mention": ["drain pump filter", "every 3 months"]}
+{"id": "q43", "kind": "two_docs", "question": "What does delivery with installation cost, and can the driver take my old appliance away?", "relevant_docs": ["shipping-and-delivery", "haul-away-and-recycling"], "must_mention": ["149 USD", "30 USD"]}
+{"id": "q44", "kind": "two_docs", "question": "I bought on an installment plan and want to send the appliance back, what happens to my payments?", "relevant_docs": ["financing-and-installments", "returns-and-refunds"], "must_mention": ["Northfield Credit"]}
+{"id": "q45", "kind": "two_docs", "question": "The technician found no fault during my warranty visit, will I be charged, and who do I complain to?", "relevant_docs": ["service-visits-and-repairs", "contact-and-support-hours"], "must_mention": ["95 USD", "Customer Relations"]}
+{"id": "q46", "kind": "unanswerable", "question": "Do you sell microwave ovens?", "relevant_docs": [], "must_mention": [], "expect_abstain": true}
+{"id": "q47", "kind": "unanswerable", "question": "What is the warranty on a Halden air conditioner?", "relevant_docs": [], "must_mention": [], "expect_abstain": true}
+{"id": "q48", "kind": "unanswerable", "question": "What is Halden's stock ticker symbol?", "relevant_docs": [], "must_mention": [], "expect_abstain": true}
+{"id": "q49", "kind": "unanswerable", "question": "How many decibels does the D-series dishwasher produce?", "relevant_docs": [], "must_mention": [], "expect_abstain": true}
+{"id": "q50", "kind": "unanswerable", "question": "Does the refrigerator come in black stainless steel?", "relevant_docs": [], "must_mention": [], "expect_abstain": true}
