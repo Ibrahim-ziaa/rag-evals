@@ -6,3 +6,6 @@ decisions.jsonl
 .env
 index.json
 evals/last_run.json
+node_modules/
+web/dist/
+*.egg-info/
